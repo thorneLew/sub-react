@@ -24,6 +24,10 @@
   color: white;
 }
 
+li {
+  color: rgb(82, 82, 223)
+}
+
 .App-link {
   color: #61dafb;
 }

@@ -22,5 +22,5 @@ module.exports = {
     config.open = false
 
     return config;
-  },
+  }
 };
